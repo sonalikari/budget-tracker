@@ -105,7 +105,7 @@ function App() {
   return (
     <>
       {alert.show && <Alert type={alert.type} text={alert.text} />}
-      <h1>BUDGET CALCULATOR</h1>
+      <h1>BUDGET TRACKER</h1>
       <main className="App">
         <ExpenseForm
           handleSubmit={handleSubmit}
