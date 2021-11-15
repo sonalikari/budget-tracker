@@ -6,5 +6,5 @@
 
 ### Description  ##
 <p>
-  This application is used for manage expense. With the use of this application you can create the list of items and the cost of each items and generate total expense of all the items and you can also edit the items and their costs .
+  This application is used for manage expenses. With the use of this application, you can create the list of items and the cost of each item and generate total expense of all the items and you can also edit the items and their costs .
 </p>
